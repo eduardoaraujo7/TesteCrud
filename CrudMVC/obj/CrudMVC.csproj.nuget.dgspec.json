@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\CrudMVC.csproj": {}
+    "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\CrudMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\CrudMVC.csproj": {
+    "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\CrudMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
+        "projectUniqueName": "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
         "projectName": "CrudMVC",
-        "projectPath": "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
+        "projectPath": "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
         "packagesPath": "C:\\Users\\dufan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\obj\\",
+        "outputPath": "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dufan\\AppData\\Roaming\\NuGet\\NuGet.Config",

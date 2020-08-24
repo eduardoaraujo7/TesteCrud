@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SfGjvvQDWfeCW+iGY+mkiD/EU9AkH6+L5zVUJlXNgNLN20/OSwIuqsOGjaVQcEWJZoBirQr+HMgOPoA+auyUCQ==",
+  "dgSpecHash": "Q57sIK+EYf5MS7JF3nxNVyZCDKiv6QHdP1+2KS79EDPTqQ10Gl1OeQO2TySJjjAW4bcJgQpSOFtZa21c+vBNDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dufan\\source\\repos\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
+  "projectFilePath": "C:\\Users\\dufan\\OneDrive\\Área de Trabalho\\CrudMVC\\CrudMVC\\CrudMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dufan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\dufan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
